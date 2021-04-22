@@ -18,11 +18,11 @@
 
 
 - PSNC - Poznan Supercomputing and Networking Center:  
-⚡ Junior Python/Django Developer June 2020 - today  
+⚡ Junior Python/Django Developer: June 2020 - today  
 ⚡ Python Developer Intern: June 2020  
 
 - DOMAR S.A. W.S.H.U.:  
-⚡ Junior Python Developer February 2020 - today  
+⚡ Junior Python Developer: February 2020 - today  
 ⚡ Junior Programmer: December 2019 – February 2020  
 
 
