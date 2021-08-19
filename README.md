@@ -28,8 +28,8 @@
 
 # 🏫🏫🏫 Education:
 
+⚡ Politechnika Poznańska - IT specialist 2021 – today
 ⚡ Zespół Szkół Komunikacji - IT specialist 2017 – 2021  
-
 
 
 <!--
