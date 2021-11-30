@@ -9,7 +9,6 @@
 😄  Playing the piano and guitar  
 😄  Mountain biking  
 😄  Calisthenics  
-😄  Math  
 😄  Providing extracurricular activities in mathematics  
 😄  listening to music  
 
