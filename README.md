@@ -1,7 +1,7 @@
 ### Hi there 👋👋👋
 
-🔭 I'm a junior python developer. I'm interested in programming since 2018. I started with c ++ and c #. I program in these languages in my free time.  
-🌱 I am currently developing my skills in Python and Django.
+🔭 I'm a mid python developer. I'm interested in programming since 2018. I started with c ++ and c #. 
+🌱 I am currently developing my skills in Python and Django (drf).
 
 # ✨✨✨ Free time:
 
