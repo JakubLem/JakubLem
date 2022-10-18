@@ -5,23 +5,26 @@
 
 # ✨✨✨ Free time:
 
+😄  Motorcycling  
 😄  Speedcubing  
 😄  Playing the piano and guitar  
 😄  Mountain biking  
 😄  Calisthenics  
 😄  Providing extracurricular activities in mathematics  
-😄  listening to music  
+😄  Listening to music  
 
 
 # 👔👔👔 Experience:
 
 
 - PSNC - Poznan Supercomputing and Networking Center:  
-⚡ Junior Python/Django Developer: June 2020 - today  
+⚡ Mid Python/Django Developer: July 2022 - today  
+⚡ Junior Python/Django Developer: June 2020 - June 2022  
 ⚡ Python Developer Intern: June 2020  
 
 - DOMAR S.A. W.S.H.U.:  
-⚡ Junior Python Developer: February 2020 - today  
+⚡ Mid Backend Developer: February 2020 - today  
+⚡ Junior Python Developer: February 2020 - June 2022  
 ⚡ Junior Programmer: December 2019 – February 2020  
 
 
