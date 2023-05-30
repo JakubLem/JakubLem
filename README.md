@@ -33,6 +33,8 @@
 ⚡ Politechnika Poznańska - IT specialist 2021 – today  
 ⚡ Zespół Szkół Komunikacji - IT specialist 2017 – 2021  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&show_icons=true&theme=transparent)
+
 
 <!--
 **JakubLem/JakubLem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
