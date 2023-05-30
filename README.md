@@ -43,7 +43,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&show_icons=true&theme=transparent)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubLem)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubLem)](https://github.com/JakubLem/github-readme-stats)
 
 
 <!--
