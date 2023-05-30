@@ -34,7 +34,7 @@
 ⚡ Zespół Szkół Komunikacji - IT specialist 2017 – 2021  
 
 
-🌃🌃🌃 Hobby Programming at Night:
+# 🌃🌃🌃 Coding at Night:
 
 ⚡ [Develovers](https://github.com/Debiutanci)
 
