@@ -40,11 +40,20 @@
 
 
 # 📊📉📈 Stats:
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&show_icons=true&theme=transparent)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubLem)](https://github.com/JakubLem/github-readme-stats)
-
+-->
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-JakubLem.vercel.app/api/top-langs/?username=JakubLem&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-JakubLem.vercel.app/api?username=JakubLem&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
 <!--
 **JakubLem/JakubLem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
