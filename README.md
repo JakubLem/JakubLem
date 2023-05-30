@@ -41,7 +41,7 @@
 
 # 📊 Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&show_icons=true&theme=transparent)  
+![JakubLem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraKoz&count_private=true&theme=radical)  
 
 
 
