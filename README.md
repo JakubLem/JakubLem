@@ -34,9 +34,16 @@
 ⚡ Zespół Szkół Komunikacji - IT specialist 2017 – 2021  
 
 
+🌃🌃🌃 Hobby Programming at Night:
+
+⚡ [Develovers](https://github.com/Debiutanci)
+
+
 # 📊📉📈 Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubLem)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&show_icons=true&theme=transparent)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubLem)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
