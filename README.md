@@ -3,6 +3,14 @@
 🔭 I'm a mid python developer. I'm interested in programming since 2018. I started with c ++ and c #. 
 🌱 I am currently developing my skills in Python and Django (drf).
 
+
+# 💻 Stack:
+
+⚡ Python (Django, DRF, django-ninja)  
+⚡ Databases  
+⚡ API (gRPC, rest, gql)  
+
+
 # ✨ Free time:
 
 😄  Motorcycling  
