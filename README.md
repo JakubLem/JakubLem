@@ -4,11 +4,11 @@
 🌱 I am currently developing my skills in Python and Django (drf).
 
 
-# 💻 Stack:
+# 💻 Main technologies:  
 
-⚡ Python (Django, DRF, django-ninja)  
-⚡ Databases  
-⚡ API (gRPC, rest, gql)  
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
+</div>
 
 
 # ✨ Free time:
