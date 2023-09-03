@@ -76,8 +76,8 @@ Environment:<br>
 
 # 🏫 Education:
 
-⚡ <img src="https://www.zsk.poznan.pl/wp-content/uploads/2019/05/m_logo.png" width="65" height="25"/> Politechnika Poznańska - IT specialist 2021 – today  
-⚡ <img src="https://www.zsk.poznan.pl/wp-content/uploads/2019/05/m_logo.png" width="65" height="25"/> Zespół Szkół Komunikacji - IT specialist 2017 – 2021  
+⚡ <img src="https://www.zsk.poznan.pl/wp-content/uploads/2019/05/m_logo.png" width="25" height="25"/> Politechnika Poznańska - IT specialist 2021 – today  
+⚡ <img src="https://www.zsk.poznan.pl/wp-content/uploads/2019/05/m_logo.png" width="25" height="25"/> Zespół Szkół Komunikacji - IT specialist 2017 – 2021  
 
 
 
