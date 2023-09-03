@@ -75,18 +75,23 @@ Environment:<br>
 
 
 # 🏫 Education:
+<div>
+    <div align="left">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSym9gXqJ6QO1jqgohu3SqvIkclQLwayqtavjx0G7cXLw&s" width="25" height="25"/>
+    </div>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSym9gXqJ6QO1jqgohu3SqvIkclQLwayqtavjx0G7cXLw&s" width="25" height="25"/>
-  <p style="margin-left: 10px;">Politechnika Poznańska - IT specialist 2021 – today</p>
+    <div align="right">
+    <p>Politechnika Poznańska - IT specialist 2021 – today</p>
+    </div>
+
+    <div align="left">
+    <img src="https://www.zsk.poznan.pl/wp-content/uploads/2019/05/m_logo.png" width="25" height="25"/>
+    </div>
+
+    <div align="right">
+    <p>Zespół Szkół Komunikacji - IT specialist 2017 – 2021</p>
+    </div>
 </div>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://www.zsk.poznan.pl/wp-content/uploads/2019/05/m_logo.png" width="25" height="25"/>
-  <p style="margin-left: 10px;">Zespół Szkół Komunikacji - IT specialist 2017 – 2021</p>
-</div>
-
-
 
 
 # 🌃 Coding at Night:
