@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="" alt="" width="46" height="46"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="" alt="" width="46" height="46"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="" alt="" width="46" height="46"/>
-</div><br>
+</div>
 <div>
 <h3>Other technologies known:</h3>
 
