@@ -63,7 +63,7 @@ Environment:<br>
 # 👔 Experience:
 
 
-- PSNC - Poznan Supercomputing and Networking Center:  <img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="100" height="50"/>
+- PSNC - Poznan Supercomputing and Networking Center:  <img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="130" height="50"/><br>
 ⚡ Mid Python/Django Developer: July 2022 - today  
 ⚡ Junior Python/Django Developer: June 2020 - June 2022  
 ⚡ Python Developer Intern: June 2020  
