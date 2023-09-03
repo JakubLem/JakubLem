@@ -49,17 +49,6 @@ Environment:<br>
 </div>
 
 
-# ✨ Free time:
-
-😄  Motorcycling  
-😄  Speedcubing  
-😄  Playing the piano and guitar  
-😄  Mountain biking  
-😄  Calisthenics  
-😄  Providing extracurricular activities in mathematics  
-😄  Listening to music  
-
-
 # 👔 Experience:
 
 
@@ -89,9 +78,18 @@ Environment:<br>
 
 # 📊 Stats:
 
-![JakubLem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&count_private=true&theme=tokyonight)
+![JakubLem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLem&count_private=true&theme=tokyonight)  
 
 
+# ✨ Free time:
+
+😄  Motorcycling  
+😄  Speedcubing  
+😄  Playing the piano and guitar  
+😄  Mountain biking  
+😄  Calisthenics  
+😄  Providing extracurricular activities in mathematics  
+😄  Listening to music  
 
 
 
