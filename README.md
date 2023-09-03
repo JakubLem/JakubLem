@@ -8,7 +8,10 @@
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Python" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="" alt="" width="30" height="30"/>
+<img src="" title="" alt="" width="30" height="30"/>
+<img src="" title="" alt="" width="30" height="30"/>
 </div>
 
 
