@@ -7,9 +7,9 @@
 # 💻 Technologies:  
 
 <div>
-Main stack:<br>
+Main stack:<br><hr>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="" alt="" width="50" height="50"/>
@@ -18,17 +18,28 @@ Main stack:<br>
 
 <br>
 <div>
-Version control system:<br>
+Version control system:<br><hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 
 </div><br>
 <div>
-Other technologies known:<br>
+Other technologies known:<br><hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
+<img src="" title="" alt="" width="50" height="50"/>
 
 
 </div>
