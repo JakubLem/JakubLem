@@ -4,21 +4,31 @@
 🌱 I am currently developing my skills in Python and Django (drf).
 
 
-# 💻 Main technologies:  
+# 💻 Technologies:  
 
 <div>
-Backend:<br>
+Main stack:<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Python" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="" alt="" width="50" height="50"/>
-</div><br>
+</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="" alt="" width="50" height="50"/>
+<br>
 <div>
 Version control system:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" title="" alt="" width="50" height="50"/>
+
+</div><br>
+<div>
+Other technologies known:<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="" alt="" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="" alt="" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="" alt="" width="50" height="50"/>
+
 
 </div>
 
