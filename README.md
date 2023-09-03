@@ -7,7 +7,7 @@
 # 💻 Technologies:  
 
 <div>
-<h3>Main stack</h3>:<br>
+<h3>Main stack:</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 <img src="https://www.svgrepo.com/show/305963/django.svg" title="Django" alt="Django" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="" alt="" width="50" height="50"/>
@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="" alt="" width="50" height="50"/>
 </div><br>
 <div>
-<h3>Other technologies known:</h3><br>
+<h3>Other technologies known:</h3>
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="" alt="" width="50" height="50"/>
@@ -40,7 +40,7 @@
 </div><br>
 
 <div>
-<h3>Environment:</h3><br>
+<h3>Environment:</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="" alt="" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="" alt="" width="50" height="50"/>
