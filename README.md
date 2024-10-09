@@ -49,6 +49,9 @@
 <img src="https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/17045aa7f2950d75c23d1805ebf34986.svg" width="25" height="25"/> Meant4  
 ⚡ Python Developer: July 2023 - today
 
+<img src="https://imagedelivery.net/REQCzC4NUECRK12udAUCXw/01a782ec-41af-43f4-33a5-a2866bb3a900/OpenGraph" width="65" height="25"/> Arlemi    
+⚡ Python Developer: x - today
+
 <img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="65" height="25"/>   Poznan Supercomputing and Networking Center:<br>
 ⚡ Mid Python/Django Developer: July 2022 - today  
 ⚡ Junior Python/Django Developer: June 2020 - June 2022  
