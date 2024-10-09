@@ -46,15 +46,15 @@
 
 # 👔 Experience:
 
-<img src="https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/17045aa7f2950d75c23d1805ebf34986.svg"/> Meant4
+<img src="https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/17045aa7f2950d75c23d1805ebf34986.svg" width="35" height="35"/> Meant4
 ⚡ Python Developer: July 2023 - today
 
-<img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="65" height="25"/>   Poznan Supercomputing and Networking Center:<br>
+<img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="75" height="35"/>   Poznan Supercomputing and Networking Center:<br>
 ⚡ Mid Python/Django Developer: July 2022 - today  
 ⚡ Junior Python/Django Developer: June 2020 - June 2022  
 ⚡ Python Developer Intern: June 2020  
 
-<img src="https://domar.com.pl/wp-content/uploads/2020/02/LOGO_DOMAR.png" width="65" height="25"/>   DOMAR S.A. W.S.H.U.:<br>
+<img src="https://domar.com.pl/wp-content/uploads/2020/02/LOGO_DOMAR.png" width="75" height="35"/>   DOMAR S.A. W.S.H.U.:<br>
 ⚡ Mid Backend Developer: June 2022 - today  
 ⚡ Junior Python Developer: February 2020 - June 2022  
 ⚡ Junior Programmer: December 2019 – February 2020  
