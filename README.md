@@ -49,7 +49,7 @@
 <img src="https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/17045aa7f2950d75c23d1805ebf34986.svg" width="25" height="25"/> Meant4<br>
 ⚡ Python Developer: July 2023 - today
 
-<img src="https://raw.githubusercontent.com/JakubLem/JakubLem/refs/heads/main/Arlemi_sygnet_svg.png" width="25" height="25"/> Arlemi<br>
+<img src="https://raw.githubusercontent.com/JakubLem/JakubLem/refs/heads/main/Arlemi_sygnet_svg.png" width="30" height="25"/> Arlemi<br>
 ⚡ Co-founder: January 2023 - today
 
 <img src="https://www.natak.pl/images/SpotkaniaNaTak/logo_partner%C3%B3w_spotkania_na_tak/pcss_logo.png" width="65" height="25"/>   Poznan Supercomputing and Networking Center:<br>
